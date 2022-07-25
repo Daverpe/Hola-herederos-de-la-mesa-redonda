@@ -3,3 +3,8 @@
 * {
     background-color:pink;
 }
+
+p span {
+    color:white;
+    background-color: green;
+}
